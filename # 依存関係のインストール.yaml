@@ -1,0 +1,8 @@
+# 依存関係のインストール
+npm install 
+
+# BOTの起動
+npm start 
+
+# 開発モード（ファイル変更を監視）
+npm run  watch 
